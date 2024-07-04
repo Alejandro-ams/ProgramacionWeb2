@@ -14,7 +14,7 @@
         "cantidad": 1,
         "descripcion": "Nike",
         "precio": 99000,
-        "imagen": "../Imagenes/nike1.jpg"
+        "imagen": "../Imagenes/nike2.jpg"
         
     },
     {
@@ -23,7 +23,7 @@
         "cantidad": 1,
         "descripcion": "Nike",
         "precio": 65000,
-        "imagen": "../Imagenes/nike1.jpg"
+        "imagen": "../Imagenes/nike3.jpg"
         
     },
     {
@@ -32,7 +32,7 @@
         "cantidad": 1,
         "descripcion": "Nike",
         "precio": 85000,
-        "imagen": "../Imagenes/nike1.jpg"
+        "imagen": "../Imagenes/nike5.jpg"
         
     },
     {
@@ -41,7 +41,7 @@
         "cantidad": 1,
         "descripcion": "Nike",
         "precio": 75000,
-        "imagen": "../Imagenes/nike1.jpg"
+        "imagen": "../Imagenes/nike6.jpg"
         
     },
     {
@@ -50,7 +50,7 @@
         "cantidad": 1,
         "descripcion": "Nike",
         "precio": 95000,
-        "imagen": "../Imagenes/nike1.jpg"
+        "imagen": "../Imagenes/nike7.jpg"
         
     }
 
