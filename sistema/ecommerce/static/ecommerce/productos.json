@@ -5,7 +5,7 @@
         "cantidad": 1,
         "descripcion": "Nike",
         "precio": 75000,
-        "imagen": "../Imagenes/nike1.jpg"
+        "imagen": "../img/logo.png"
         
     },
     {
